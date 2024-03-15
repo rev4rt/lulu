@@ -21,9 +21,9 @@ function Hero({
         <div className="flex flex-col justify-between py-28 px-12 text-center z-20 relative h-screen">
           <div>
             <p className="font-extralight text-[0.75rem]">The Wedding of</p>
-            <h1 className="text-4xl font-light mt-2">Akhmad Muhtarom<br />&<br />Ulin Nikmah</h1>
+            <h1 className="text-4xl font-light mt-2">Lulu<br />&<br />Farhan</h1>
             <p className="font-extralight text-[0.8rem] mt-4">
-              Sunday, 21 April 2024
+              Saturday, 13 April 2024
             </p>
           </div>
           <div className="flex flex-col items-center gap-2">
