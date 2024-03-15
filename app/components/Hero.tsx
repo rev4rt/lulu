@@ -36,7 +36,7 @@ function Hero({
                   setCurrentOverflow("auto");
                   play();
                 }}
-                className="font-bold text-sm bg-[#871F7836] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
+                className="font-bold text-sm bg-[#9C76C2] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
               >
                 <RxEnvelopeOpen />
                 <span>Buka Undangan</span>
