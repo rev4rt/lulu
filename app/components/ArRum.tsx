@@ -7,9 +7,9 @@ function ArRum() {
       <div className="bg-[url('/images/anNur/bg.png')] rounded-t-[1.25rem] bg-center bg-no-repeat bg-cover p-12 flex flex-col items-center text-center gap-8 -mt-8 z-20 relative font-light">
         <RevealWrapper duration={1500} origin="top">
           <h1 className="italic text-4xl flex gap-4 text-[#A99C86]">
-            <span>A</span>
+            <span>L</span>
             <span>&</span>
-            <span>U</span>
+            <span>F</span>
           </h1>
         </RevealWrapper>
         <RevealWrapper duration={1500} origin="top">
