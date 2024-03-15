@@ -4,7 +4,7 @@ import { RevealWrapper } from "next-reveal";
 function ArRum() {
   return (
     <section id="qs-ar-rum">
-      <div className="bg-[url('/images/anNur/bg.png')] rounded-t-[1.25rem] bg-center bg-no-repeat bg-cover p-12 flex flex-col items-center text-center gap-8 -mt-8 z-20 relative font-light">
+      <div className="bg-[url('/images/anNur/bg2.png')] rounded-t-[1.25rem] bg-center bg-no-repeat bg-cover p-12 flex flex-col items-center text-center gap-8 -mt-8 z-20 relative font-light">
         <RevealWrapper duration={1500} origin="top">
           <h1 className="italic text-4xl flex gap-4 text-[#9C76C2]">
             <span>L</span>
