@@ -22,7 +22,7 @@ function WeddingEvents() {
                 className="w-full h-72 object-cover rounded-t-[1.25rem]"
               />
               <div className="flex">
-                <div className="w-[20%] bg-[#424242] rounded-bl-[1.25rem] flex items-center">
+                <div className="w-[20%] bg-[#871F78] rounded-bl-[1.25rem] flex items-center">
                   <p className="rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-5 lg:-translate-x-3.5 tracking-[5px]">
                   </p>
                 </div>
@@ -46,7 +46,7 @@ function WeddingEvents() {
                   </p>
                   <a
                     href="https://maps.app.goo.gl/viLCdc5rB6TEFFek6"
-                    className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
+                    className="text-[0.75rem] text-[#424242] border border-[#871F78] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                   >
                     GOOGLE MAPS
                   </a>
@@ -62,7 +62,7 @@ function WeddingEvents() {
                 className="w-full h-72 object-cover rounded-t-[1.25rem]"
               />
               <div className="flex">
-                <div className="w-[20%] bg-[#424242] rounded-bl-[1.25rem] flex items-center">
+                <div className="w-[20%] bg-[#871F78] rounded-bl-[1.25rem] flex items-center">
                   <p className="rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-5 lg:-translate-x-3.5 tracking-[5px]">
                   </p>
                 </div>
@@ -76,14 +76,14 @@ function WeddingEvents() {
                   <FaFacebook />
                   <a
                     href="https://facebook.com/RTPROJEX/live_videos"
-                    className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
+                    className="text-[0.75rem] text-[#424242] border border-[#871F78] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                   >
             <span>LIVE FACEBOOK</span>
                   </a>
                   <FaYoutube />
                   <a
                     href="https://www.youtube.com/watch?v=_TV4MjpVfho"
-                    className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
+                    className="text-[0.75rem] text-[#424242] border border-[#871F78] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                   >
             <span>LIVE YOUTUBE</span>
                   </a>
