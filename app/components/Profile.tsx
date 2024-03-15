@@ -28,7 +28,7 @@ function Profile() {
           <RevealWrapper duration={1500} origin="right">
             <img
               src="/images/profile/ulin.jpg"
-              alt="ulin"
+              alt="lulu"
               className="translate-x-[3rem]"
             />
           </RevealWrapper>
@@ -36,24 +36,24 @@ function Profile() {
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="italic text-2xl font-light">
-            Ulin Nikmah
+            Luluul Jannah
             </h1>
           </RevealWrapper>
           <p className="text-sm leading-relaxed">
             <strong>Putri dari</strong>
             <br />
-            H. Syamsul Arifin
+            H. Matsuri (Alm)
             <br />
             &
             <br />
-            HJ. Midnatun
+            HJ. Juahairiyah
           </p>
           <a
-            href="https://www.instagram.com/ulinnmh_/"
+            href="https://www.instagram.com/itsminlulu/"
             className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
-            <span>ulinnmh_</span>
+            <span>Lulu J</span>
             <HiArrowLongRight />
           </a>
         </div>
@@ -61,7 +61,7 @@ function Profile() {
           <RevealWrapper duration={1500} origin="left">
             <img
               src="/images/profile/c.jpg"
-              alt="rev4rt"
+              alt="farhan"
               className="-translate-x-[3rem]"
             />
           </RevealWrapper>
@@ -77,24 +77,24 @@ function Profile() {
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="italic text-2xl font-light">
-              Akhmad Muhtarom
+              Farhan
             </h1>
           </RevealWrapper>
           <p className="text-sm leading-relaxed">
             <strong>Putra dari</strong>
             <br />
-            H. Mistari (Alm)
+            Bpk. Hadari
             <br />
             &
             <br />
-            HJ. Halimatus Sakdiyah
+            Ibu Sufiyah (Almh)
           </p>
           <a
-            href="https://www.instagram.com/rev4rt/"
+            href="https://www.instagram.com/"
             className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
-            <span>rev4rt</span>
+            <span>Farhan</span>
             <HiArrowLongRight />
           </a>
         </div>
