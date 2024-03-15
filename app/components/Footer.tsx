@@ -29,7 +29,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div className="bg-[#424242] p-20 flex items-center justify-center">
+      <div className="bg-[#871F78] p-20 flex items-center justify-center">
         <img src="/images/footer/lf.png" alt="logo" className="w-24" />
       </div>
     </section>
