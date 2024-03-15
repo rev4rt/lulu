@@ -35,7 +35,7 @@ function Profile() {
         </div>
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
-            <h1 className="italic text-2xl font-light">
+            <h1 className="text-3xl font-light mt-2 mb-4">
             Luluul Jannah
             </h1>
           </RevealWrapper>
@@ -76,7 +76,7 @@ function Profile() {
         </div>
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
-            <h1 className="italic text-2xl font-light">
+            <h1 className="text-3xl font-light mt-2 mb-4">
               Farhan
             </h1>
           </RevealWrapper>
