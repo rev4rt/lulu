@@ -16,6 +16,7 @@ function WeddingEvents() {
           </h1>
           <RevealWrapper duration={1500} origin="bottom">
             <div className="mt-10">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.0273312041877!2d113.1873482060115!3d-6.899704840076922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd8393aa880a7d9%3A0xea7dd36bf8ce0ef2!2sS%20FAMILY!5e0!3m2!1sen!2sid!4v1710537483755!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               <img
                 src="/images/weddingEvents/1.jpg"
                 alt="akad"
@@ -28,70 +29,28 @@ function WeddingEvents() {
                 </div>
                 <div className="w-[80%] bg-white px-4 py-6 rounded-br-[1.25rem] flex flex-col gap-5 items-baseline">
                   <h1 className="italic text-xl font-light">
-                    Sunday, 21 April 2024 M
+                    Sunday, 13 April 2024 M
                     <br />
-                    Ahad, 12 Syawal 1445 H
+                    Ahad, 4-5 Syawal 1445 H
                   </h1>
                   <hr className="border border-[#5a5a5a80] w-full" />
                   <p className="flex items-center text-[#5a5a5a] font-light text-sm gap-1.5">
                     <AiFillClockCircle />
-                    <span>07.00 WIB</span>
+                    <span>07.30 WIB - Selesai</span>
                   </p>
-                  <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
-                    <strong className="text-black font-bold">
-                      Kediaman Mempelai Pria
-                    </strong>
-                    <br />
-                    Sajengan, Dusun Duwa' Assen, Batioh, Banyuates
-                  </p>
-                  <a
-                    href="https://maps.app.goo.gl/g41k2M3XaLRjz8ms6"
-                    className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
-                  >
-                    GOOGLE MAPS
-                  </a>
-                </div>
-              </div>
-            </div>
-          </RevealWrapper>
-          <RevealWrapper duration={1500} origin="bottom">
-            <div className="mt-6">
-              <img
-                src="/images/weddingEvents/s.jpg"
-                alt="akad"
-                className="w-full h-72 object-cover rounded-t-[1.25rem] object-left"
-              />
-              <div className="flex">
-                <div className="w-[80%] bg-white px-4 py-6 rounded-bl-[1.25rem] flex flex-col gap-5 items-baseline">
-                  <h1 className="italic text-xl font-light">
-                    Sunday, 21 April 2024 M
-                    <br />
-                    Ahad, 12 Syawal 1445 H
-                  </h1>
-                  <hr className="border border-[#5a5a5a80] w-full" />
-                  <div>
-                    <p className="flex items-center text-[#5a5a5a] font-light text-[0.8rem] gap-1.5">
-                      <AiFillClockCircle />
-                      <span>08.00 WIB - SELESAI</span>
-                    </p>
-                  </div>
                   <p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
                     <strong className="text-black font-bold">
                       Kediaman Mempelai Wanita
                     </strong>
                     <br />
-                    Dusun Duwa' Assen, Batioh, Banyuates
+                    Dusun Kapasan, Batioh, Banyuates
                   </p>
                   <a
-                    href="https://maps.app.goo.gl/rVrUVuy82D1WFvfD6"
+                    href="https://maps.app.goo.gl/viLCdc5rB6TEFFek6"
                     className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
                   >
                     GOOGLE MAPS
                   </a>
-                </div>
-                <div className="w-[20%] bg-[#424242] rounded-br-[1.25rem] flex items-center">
-                  <p className="-rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-[3rem] lg:-translate-x-[2.35rem] tracking-[5px]">
-                  </p>
                 </div>
               </div>
             </div>
@@ -112,9 +71,7 @@ function WeddingEvents() {
                   <h1 className="italic text-xl font-light">
                     Akad & Resepsi Pernikahan
                     <br />
-                    Akhmad Muhtarom &
-                    <br />
-                    Ulin Nikmah
+                    Lulu & Farhan
                   </h1>
                   <hr className="border border-[#5a5a5a80] w-full" />
                   <FaFacebook />
