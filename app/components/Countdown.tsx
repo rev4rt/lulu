@@ -39,11 +39,11 @@ function CountdownComp() {
           <div className="relative z-20">
             <RevealWrapper duration={1500} origin="right">
               <p className="text-sm font-light">WEDDING INVITATION</p>
-              <h1 className="text-3xl font-light mt-2 mb-4">Akhmad Muhtarom<br />&<br />Ulin Nikmah</h1>
+              <h1 className="text-3xl font-light mt-2 mb-4">Luul Jannah<br />&<br />Farhan</h1>
               <div className="grid grid-cols-2 border-y border-y-white text-center text-[0.75rem] font-light">
                 <p className="leading-[1.85] py-2 px-2 border-r border-r-white flex flex-col gap-2">
                   <span>SAVE THE DATE</span>
-                  <span>Sunday, 21 April 2024</span>
+                  <span>Saturday, 13 April 2024</span>
                 </p>
                 <p className="py-2 px-2 flex flex-col gap-2">
                   <span>COUNTDOWN</span>
