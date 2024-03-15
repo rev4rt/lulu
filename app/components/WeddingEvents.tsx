@@ -16,7 +16,6 @@ function WeddingEvents() {
           </h1>
           <RevealWrapper duration={1500} origin="bottom">
             <div className="mt-10">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.0273312041877!2d113.1873482060115!3d-6.899704840076922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd8393aa880a7d9%3A0xea7dd36bf8ce0ef2!2sS%20FAMILY!5e0!3m2!1sen!2sid!4v1710537483755!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               <img
                 src="/images/weddingEvents/1.jpg"
                 alt="akad"
