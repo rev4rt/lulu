@@ -17,7 +17,7 @@ function Hero({
   return (
     <section id="hero">
       <div className="min-h-screen bg-[url('/images/hero/bg.jpg')] bg-cover bg-center text-white relative">
-        <div className="absolute inset-0 bg-black/70 z-10" />
+        <div className="absolute inset-0 bg-purple/70 z-10" />
         <div className="flex flex-col justify-between py-28 px-12 text-center z-20 relative h-screen">
           <div>
             <p className="font-extralight text-[0.75rem]">The Wedding of</p>
@@ -36,7 +36,7 @@ function Hero({
                   setCurrentOverflow("auto");
                   play();
                 }}
-                className="font-bold text-sm bg-[#ffffff36] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
+                className="font-bold text-sm bg-[#871F7836] border border-[#bdb08f8c] rounded-lg flex items-center gap-2 px-6 py-3 mt-6 hover:scale-90 ease-linear duration-[0.2s]"
               >
                 <RxEnvelopeOpen />
                 <span>Buka Undangan</span>
