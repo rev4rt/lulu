@@ -33,7 +33,7 @@ function CountdownComp() {
         <div className="absolute inset-0 bg-black/30" />
         <div className="relative py-8 px-10 w-full">
           <div
-            className="bg-[#9C76C221] rounded-tr-[3.125rem] rounded-bl-[3.125rem] absolute inset-x-4 inset-y-0 z-10"
+            className="bg-[#9C76C2] rounded-tr-[3.125rem] rounded-bl-[3.125rem] absolute inset-x-4 inset-y-0 z-10"
             style={{ backdropFilter: "blur(6px)" }}
           />
           <div className="relative z-20">
