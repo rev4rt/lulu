@@ -70,25 +70,10 @@ function WeddingEvents() {
                 </div>
                 <div className="w-[80%] bg-white px-4 py-6 rounded-br-[1.25rem] flex flex-col gap-5 items-baseline">
                   <h1 className="italic text-xl font-light">
-                    Resepsi Pernikahan
+                    Live Resepsi Pernikahan
                     <br />
                     Lulu & Farhan
                   </h1>
-                  <hr className="border border-[#5a5a5a80] w-full" />
-                  <FaFacebook />
-                  <a
-                    href="https://facebook.com/RTPROJEX/live_videos"
-                    className="text-[0.75rem] text-[#424242] border border-[#9C76C2] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
-                  >
-            <span>LIVE FACEBOOK</span>
-                  </a>
-                  <FaYoutube />
-                  <a
-                    href="https://www.youtube.com/watch?v=_TV4MjpVfho"
-                    className="text-[0.75rem] text-[#424242] border border-[#9C76C2] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
-                  >
-            <span>LIVE YOUTUBE</span>
-                  </a>
                 </div>
               </div>
             </div>
