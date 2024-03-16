@@ -59,7 +59,7 @@ function WeddingEvents() {
           <RevealWrapper duration={1500} origin="bottom">
             <div className="mt-10">
               <iframe className="w-full h-72 object-cover rounded-t-[1.25rem]"
-    src="https://www.youtube.com/embed/_TV4MjpVfho?si=LnHjE-N_ITVLsPmE" 
+    src="https://www.youtube.com/embed/H6yyL1johW8?si=fyWYgDOKzJa4NM9X" 
     frameBorder="0" 
     allow="autoplay; encrypted-media" 
     allowFullScreen></iframe>
