@@ -15,24 +15,6 @@ function Profile() {
             dan Ridho Allah SWT. Kami mengharapkan kehadiran
             Bapak/Ibu/Saudara/(i). pada acara Resepsi Pernikahan putra-putri kami
           </p>
-        </RevealWrapper>
-        <div className="grid grid-cols-2 mt-20">
-          <div className="-rotate-90 flex flex-col justify-end lg:mr-4 -translate-y-4 lg:-translate-y-4">
-            <RevealWrapper duration={1500} origin="bottom">
-              <p className="text-[0.75rem] tracking-[5px] flex gap-2.5 text-[#424242] text-center">
-                <span>THE</span>
-                <span>BRIDE</span>
-              </p>
-            </RevealWrapper>
-          </div>
-          <RevealWrapper duration={1500} origin="right">
-            <img
-              src="/images/profile/l.jpg"
-              alt="lulu"
-              className="translate-x-[3rem]"
-            />
-          </RevealWrapper>
-        </div>
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="text-3xl font-light mt-2 mb-4">
@@ -56,23 +38,6 @@ function Profile() {
             <span>Lulu J</span>
             <HiArrowLongRight />
           </a>
-        </div>
-        <div className="grid grid-cols-2 mt-20">
-          <RevealWrapper duration={1500} origin="left">
-            <img
-              src="/images/profile/f.jpg"
-              alt="farhan"
-              className="-translate-x-[3rem]"
-            />
-          </RevealWrapper>
-          <div className="rotate-90 flex flex-col justify-end lg:ml-4 translate-y-4 lg:translate-y-8">
-            <RevealWrapper duration={1500} origin="bottom">
-              <p className="text-[0.75rem] tracking-[5px] flex gap-2.5 text-[#424242] text-center">
-                <span>THE</span>
-                <span>GROOM</span>
-              </p>
-            </RevealWrapper>
-          </div>
         </div>
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
