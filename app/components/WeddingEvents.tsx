@@ -56,7 +56,11 @@ function WeddingEvents() {
           </RevealWrapper>
           <RevealWrapper duration={1500} origin="bottom">
             <div className="mt-10">
-              <iframe className="w-full h-72 object-cover rounded-t-[1.25rem]" src="https://www.youtube.com/embed/EJkdqGVyqLI?si=1s6j3_S5EV5-9ez5&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe className="w-full h-72 object-cover rounded-t-[1.25rem]"
+    src="https://www.youtube.com/embed/EJkdqGVyqLI?si=1s6j3_S5EV5-9ez5" 
+    frameBorder="0" 
+    allow="autoplay; encrypted-media" 
+    allowFullScreen></iframe>
               <div className="flex">
                 <div className="w-[20%] bg-[#9C76C2] rounded-bl-[1.25rem] flex items-center">
                   <p className="rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-5 lg:-translate-x-3.5 tracking-[5px]">
