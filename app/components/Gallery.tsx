@@ -26,18 +26,13 @@ function Gallery() {
               <p className="text-[0.8rem] font-light leading-loose px-8">
                 Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih untuk kami, dapat melalui:
               </p>
-                          <img
-              src="/images/gallery/dana.png"
-              alt="quote"
-              className="w-[170px] h-[220px] object-cover"
-            />
             </RevealWrapper>
           </div>
           <RevealWrapper origin="right" duration={1500}>
             <img
               src="/images/gallery/dana.png"
               alt="big-grid"
-              className="w-full h-96 object-cover object-bottom"
+              className="w-full h-96 object-cover object-top"
             />
           </RevealWrapper>
         </div>
