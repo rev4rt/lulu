@@ -34,13 +34,6 @@ function Gallery() {
               alt="big-grid"
               className="w-full h-96 object-cover object-top"
             />
-            <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/BLAH?showinfo=0" 
-    frameBorder="0" 
-    allow="autoplay; encrypted-media" 
-    allowFullScreen></iframe>
           </RevealWrapper>
         </div>
       </div>
