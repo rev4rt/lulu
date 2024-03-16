@@ -15,6 +15,7 @@ function Profile() {
             dan Ridho Allah SWT. Kami mengharapkan kehadiran
             Bapak/Ibu/Saudara/(i). pada acara Resepsi Pernikahan putra-putri kami
           </p>
+          </RevealWrapper>
         <div className="flex flex-col items-end text-right gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="text-3xl font-light mt-2 mb-4">
