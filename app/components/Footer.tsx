@@ -1,5 +1,9 @@
 import React from "react";
 import { RevealWrapper } from "next-reveal";
+import "./footer.scss";
+import { Resources } from "../../resources";
+import * as React from "react";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -37,3 +41,25 @@ function Footer() {
 }
 
 export default Footer;
+export class Footer extends React.Component {
+  render() {
+    return (
+      <footer>
+        <div className="container-fluid footer">
+          <div className="row">
+            <div className="col-md-12">
+              <ul className="pull-right list-unstyled">
+                <li>
+                    <a href="https://rtprojex.com">RTPROJEX</a>
+                </li>
+                <li>
+                    © RTPROJEX {new Date().getFullYear()}
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    )
+  }
+}
