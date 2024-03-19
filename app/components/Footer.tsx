@@ -34,8 +34,7 @@ function Footer() {
       <div className="bg-[#9C76C2] p-20 flex items-center justify-center">
         <img src="/images/footer/lf.png" alt="logo" className="w-24" />
       </div>
-    </section>
-          <footer>
+                <footer>
         <div className="container-fluid footer">
           <div className="row">
             <div className="col-md-12">
@@ -51,6 +50,7 @@ function Footer() {
           </div>
         </div>
       </footer>
+    </section>
   );
 }
 
