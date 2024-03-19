@@ -10,6 +10,7 @@ const merriweather = Merriweather({
 export const metadata = {
   title: "Lulu & Farhan - Wedding Invitation",
   description: "Undangan Pernikahan Lulu & Farhan",
+  property="og:image" content="/images/weddingEvents/lulu.jpg",
 };
 
 const fs = require('fs').promises;
@@ -18,6 +19,8 @@ const loadLocalImage = async () => {
   const imageData = await fs.readFile('/images/weddingEvents/lulu.jpg');
   // Process image data
 };
+
+
 
 export default function RootLayout({
   children,
