@@ -10,6 +10,7 @@ const merriweather = Merriweather({
 export const metadata = {
   title: "Lulu & Farhan - Wedding Invitation",
   description: "Undangan Pernikahan Lulu & Farhan",
+  image: "public/images/lulu.jpg",
 };
 
 export default function RootLayout({
