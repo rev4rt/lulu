@@ -8,7 +8,7 @@ const merriweather = Merriweather({
 });
 
 const loadLocalImage = async () => {
-  const imageData = await fs.readFile('/images/weddingEvents/lulu.jpg');
+  const imageData = await fs.readFile('./images/weddingEvents/lulu.jpg');
   // Process image data
 };
 
