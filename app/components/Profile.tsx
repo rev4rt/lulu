@@ -6,8 +6,8 @@ import { RevealWrapper } from "next-reveal";
 function Profile() {
   return (
     <section id="people">
-      <div className="bg-[url('/images/profile/bg.jpg')] bg-center bg-no-repeat bg-cover px-12 py-16">
-        <RevealWrapper duration={1500}>
+<div className="min-h-screen bg-[url('/images/profile/bg.jpg')] bg-cover bg-[44.5%] text-white relative py-28 flex items-end">
+  <RevealWrapper duration={1500}>
           <p className="text-center text-[0.75rem] leading-loose text-[#424242]">
             <strong>Bismillahirrahmanirrahim</strong>
             <br />
