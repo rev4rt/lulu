@@ -25,10 +25,7 @@ export const metadata = {
         height: 1600,
         alt: 'My custom alt',
       },
-    ],
-    locale: 'en_US',
-    type: 'website',
-},
+};
 
 export default function RootLayout({
   children,
