@@ -7,7 +7,7 @@ const merriweather = Merriweather({
   variable: "--font-merriweather",
 });
 
-export const metadata = ({
+export const metadata = {
   title: "Lulu & Farhan - Wedding Invitation",
   description: "Undangan Pernikahan Lulu & Farhan",
   images: [
@@ -18,7 +18,7 @@ export const metadata = ({
         alt: 'Thumbnail',
       },
       ],
-});
+};
 
 export default function RootLayout({
   children,
