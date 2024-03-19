@@ -27,7 +27,7 @@ function Profile() {
           </div>
           <RevealWrapper duration={1500} origin="right">
             <img
-              src="/images/profile/w.jpg"
+              src="/images/profile/w.png"
               alt="ulin"
               className="translate-x-[3rem]"
             />
@@ -44,21 +44,23 @@ function Profile() {
             <br />
             H. Matsuri (Alm)
             <br />
-            HJ. Juahairiyah
+            &
+            <br />
+            HJ. Juhairiyah
           </p>
           <a
             href="https://www.instagram.com/itsminlulu/"
-            className="text-sm text-white bg-[#9C76C2] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
+            className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
-            <span>Lulu J/<span>
+            <span>Lulu J</span>
             <HiArrowLongRight />
           </a>
         </div>
         <div className="grid grid-cols-2 mt-20">
           <RevealWrapper duration={1500} origin="left">
             <img
-              src="/images/profile/m.jpg"
+              src="/images/profile/m.png"
               alt="rev4rt"
               className="-translate-x-[3rem]"
             />
@@ -75,7 +77,7 @@ function Profile() {
         <div className="flex flex-col items-start text-left gap-6 mt-12">
           <RevealWrapper duration={1500} origin="bottom">
             <h1 className="italic text-2xl font-light">
-            Farhan
+              Farhan
             </h1>
           </RevealWrapper>
           <p className="text-sm leading-relaxed">
@@ -85,11 +87,11 @@ function Profile() {
             <br />
             &
             <br />
-            Ibu Sufiyah (Almh)
+            Ibu. Sufiyah (Almh)
           </p>
           <a
             href="https://www.instagram.com/"
-            className="text-sm text-white bg-[#9C76C2] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
+            className="text-sm text-white bg-[#424242] px-[0.4375rem] py-1 rounded-[0.625rem] flex items-center gap-1 hover:scale-90 ease-linear duration-[0.2s]"
           >
             <AiOutlineInstagram />
             <span>Farhan</span>
