@@ -15,6 +15,7 @@ function Profile() {
             dan Ridho Allah SWT. Kami mengharapkan kehadiran
             Bapak/Ibu/Saudara/(i). pada acara Resepsi Pernikahan putra-putri kami
           </p>
+          </div>
           </RevealWrapper>
                 <div className="grid grid-cols-2 mt-20">
           <div className="-rotate-90 flex flex-col justify-end lg:mr-4 -translate-y-4 lg:-translate-y-4">
