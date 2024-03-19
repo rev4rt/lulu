@@ -26,6 +26,13 @@ function Hero({
               Saturday, 13 April 2024
             </p>
           </div>
+          <RevealWrapper duration={1500} origin="right">
+            <img
+              src="/images/weddingEvents/lulu.jpg"
+              alt="ulin"
+              className="translate-x-[3rem]"
+            />
+          </RevealWrapper>
           <div className="flex flex-col items-center gap-2">
             <p className="text-[0.8rem]">Kepada Bapak/Ibu/Saudara/(i)</p>
             <p className="text-[0.8rem]">Di Tempat</p>
