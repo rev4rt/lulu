@@ -1,6 +1,6 @@
 import React from "react";
 import { RevealWrapper } from "next-reveal";
-import "./footer.scss";
+import "./app/components/footer.scss";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Footer() {
