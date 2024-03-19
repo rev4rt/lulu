@@ -10,14 +10,13 @@ const merriweather = Merriweather({
 export const metadata = {
   title: "Lulu & Farhan - Wedding Invitation",
   description: "Undangan Pernikahan Lulu & Farhan",
-  images: [
-      {
-        url: 'https://lf.rtprojex.com/public/images/weddingEvents/lulu.jpg',
-        width: 1800,
-        height: 1600,
-        alt: 'Thumbnail',
-      },
-      ],
+};
+
+const fs = require('fs').promises;
+ 
+const loadLocalImage = async () => {
+  const imageData = await fs.readFile('/images/weddingEvents/lulu.jpg');
+  // Process image data
 };
 
 export default function RootLayout({
