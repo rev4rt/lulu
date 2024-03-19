@@ -1,7 +1,5 @@
 import React from "react";
 import { RevealWrapper } from "next-reveal";
-import "./app/components/footer.scss";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -34,23 +32,6 @@ function Footer() {
       <div className="bg-[#9C76C2] p-20 flex items-center justify-center">
         <img src="/images/footer/lf.png" alt="logo" className="w-24" />
       </div>
-                <footer>
-        <div className="container-fluid footer">
-          <div className="row">
-            <div className="col-md-12">
-              <ul className="pull-right list-unstyled">
-                <li>
-                    <a href="https://rtprojex.com">RTPROJEX</a>
-                </li>
-                <li>
-                    © RTPROJEX {new Date().getFullYear()}
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </section>
   );
 }
 
