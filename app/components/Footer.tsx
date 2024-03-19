@@ -2,7 +2,6 @@ import React from "react";
 import { RevealWrapper } from "next-reveal";
 import "./footer.scss";
 import { Resources } from "../../resources";
-import * as React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Footer() {
@@ -37,14 +36,7 @@ function Footer() {
         <img src="/images/footer/lf.png" alt="logo" className="w-24" />
       </div>
     </section>
-  );
-}
-
-export default Footer;
-export class Footer extends React.Component {
-  render() {
-    return (
-      <footer>
+          <footer>
         <div className="container-fluid footer">
           <div className="row">
             <div className="col-md-12">
@@ -60,6 +52,7 @@ export class Footer extends React.Component {
           </div>
         </div>
       </footer>
-    )
-  }
+  );
 }
+
+export default Footer;
