@@ -8,25 +8,17 @@ const merriweather = Merriweather({
 });
 
 export const metadata = {
-  openGraph: {
-    title: 'Lulu & Farhan - Wedding Invitation',
-    description: 'Undangan Pernikahan Lulu & Farhan',
-    url: 'https://lf.rtprojex.com',
-    siteName: 'rtprojex.com',
-    images: [
+  title: "Akhmad Muhtarom & Ulin Nikmah - Wedding Invitation",
+  description: "Undangan Pernikahan Akhmad Muhtarom & Ulin Nikmah",
+  images: [
       {
-        url: 'https://lf.rtprojex.com/public/images/weddingEvents/lulu.jpg', // Must be an absolute URL
-        width: 800,
-        height: 600,
-      },
-      {
-        url: 'https://lf.rtprojex.com/public/images/weddingEvents/lulu.jpg', // Must be an absolute URL
+        url: 'https://lf.rtprojex.com/public/images/weddingEvents/lulu.jpg',
         width: 1800,
         height: 1600,
-        alt: 'My custom alt',
+        alt: 'Thumbnail',
       },
       ],
-      };
+};
 
 export default function RootLayout({
   children,
